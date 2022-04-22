@@ -1,0 +1,17 @@
+Models Used
+
+Ardiuno Nano
+https://grabcad.com/library/arduino-nano-26
+
+MPU
+https://grabcad.com/library/mpu6050-1
+
+Pushbuttons
+https://drive.google.com/drive/folders/1wOBHNoHlKXk_4RPr-BnvjEk1Tl3ViuwB
+
+Breadboard
+https://grabcad.com/library/mini-prototyping-pcb-1
+
+HTC Vive (not used because it was too big for the model but it could still be attached)
+https://grabcad.com/library/htc-vive-tracker-support-to-hold-on-an-xbox-one-controller-1
+
